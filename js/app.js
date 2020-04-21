@@ -1,4 +1,3 @@
-
 var budgetController = (function () {
   // BUDGET CONTROLLER
   var Expense = function (id, description, value) {
