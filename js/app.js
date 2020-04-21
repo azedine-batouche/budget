@@ -1,3 +1,4 @@
+
 var budgetController = (function () {
   // BUDGET CONTROLLER
   var Expense = function (id, description, value) {
@@ -156,7 +157,6 @@ var UIController = (function () {
         document.querySelector(domStrings.pourcentageLabel).textContent = '---';
       }
     },
-
     getDOMstrings: function () {
       return domStrings;
     },
