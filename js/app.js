@@ -152,7 +152,6 @@ var UIController = (function () {
     } else if (type === 'exp' && int !== 0) {
       sign = '-';
     } else if ((type === 'exp' || type === 'inc') && int === 0) {
-      console.log('access');
       sign = '';
     }
     int = int.toString().replace(/\B(?=(\d{3})+(?!\d))/g, '.');
@@ -273,7 +272,7 @@ var UIController = (function () {
     },
     getDOMstrings: function () {
       return domStrings;
-    }, 
+    },
   };
 })();
 
