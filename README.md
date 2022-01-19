@@ -10,7 +10,7 @@ This project using html, css and javascript (ES5)
 
 # Demo
 
-To get the demo click of the website click here : [budget](https://batouche-dev.github.io/budget/) .
+To get the demo click of the website click here : [budget](https://azedine-batouche.github.io/budget/) .
 
 # Setup
 
